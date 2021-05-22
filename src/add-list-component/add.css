@@ -77,6 +77,11 @@
     align-self: center;
   }
   
+  @media screen and (max-width:768px){
+    .changes{
+        margin-top: 15px;
+    }  
+}
   @media screen and (max-width:580px){
     .input-container{
       width: 95%;
